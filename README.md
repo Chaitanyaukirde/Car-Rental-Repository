@@ -50,12 +50,3 @@ Rental Days: 5
 Total Price: 300.0
 Confirm rental (Y/N): Y
 Car rented successfully.
-```
-
-## Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) installed
-- Git installed
-- An IDE like Eclipse or IntelliJ IDEA (optional but recommended)
